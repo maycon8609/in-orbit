@@ -1,0 +1,23 @@
+### Get pending goals
+GET http://localhost:3333/goals/pendings HTTP/1.1
+Host: localhost:3333
+Content-Type: application/json
+
+### Create a goal
+POST http://localhost:3333/goals HTTP/1.1
+Host: localhost:3333
+Content-Type: application/json
+
+{
+  "title": "Test",
+  "desiredWeeklyFrequency": 1
+}
+
+### Complete a goal
+POST http://localhost:3333/goals/completions HTTP/1.1
+Host: localhost:3333
+Content-Type: application/json
+
+{
+  "goalId": "ma336tcejblxdrccad42rmz1"
+}
