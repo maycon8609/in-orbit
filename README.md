@@ -2,7 +2,7 @@
 
 [![docker](https://img.shields.io/badge/docker-030712?logo=docker)](https://www.docker.com/)
 [![typescript](https://img.shields.io/badge/typescript-030712?logo=typescript)](https://www.typescriptlang.org/)
-[![zod](https://img.shields.io/badge/zod-3E67B1?logo=zod)](https://zod.dev/)
+[![zod](https://img.shields.io/badge/zod-030712?logo=zod)](https://zod.dev/)
 [![postgresql](https://img.shields.io/badge/postgresql-030712?logo=postgresql)](https://www.postgresql.org/)
 [![drizzle orm](https://img.shields.io/badge/drizzle_orm-030712?logo=drizzle)](https://orm.drizzle.team/)
 [![fastify](https://img.shields.io/badge/fastify-030712?logo=fastify)](https://fastify.dev/)
